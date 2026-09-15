@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "identifier": "minhduc.aimfreefiree.com",
+  "name": "admin - qphungios",
+  "description": "Kho Lưu Trữ Aim+Mod+Esp Của qphungios ✦\nThông Tin Liên Hệ tele: @qphungios\nzalo : 0348609562 ✦",
+  "accentColor": "#008080",
+  "icon": "assets/qphungios.JPEG",
+  "packages": [
+    {
+      "identifier": "aimbot",
+      "name": "FFM AIMBOT V3",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": "QPHUNG • GAME DELTAL\n\nFEATURES\n\n• Aimbot — Hỗ trợ ghim mục tiêu.\n• ESP — Hiển thị vị trí đối thủ.\n• Count  — đếm số lượng người chơi.\n• health — Tối ưu độ ổn định và trải nghiệm.\n\n↓ CÁCH CÀI ĐẶT ↓\n\nThực hiện theo hướng dẫn cài đặt được cung cấp để hoàn tất thiết lập.\n\n↓ HỖ TRỢ ↓\n\nCần hỗ trợ, báo lỗi hoặc đề xuất ứng dụng?\nLiên hệ: @qphungios\n\nqphungios\nUy Tín Tạo Nên Thương Hiệu",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "FreeFire"
+      ],
+      "publishedAt": "2026-08-29T07:15:00Z",
+      "download": "packages/AIMBOTv1.3105",
+      "sha256": "072a75e1554cc86ff0bdb83fb7fb6c87ff314a426c5fb6e2bf3bcc5310abf8cf",
+      "size": 16165948,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_1208.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_1208.png",
+        "assets/IMG_0804.png",
+        "assets/icon.png"
+      ],
+      "password": "1"
+    },
+    {
+      "identifier": "aimbot2",
+      "name": "FFTH AIMBOT V3",
+      "author": "qphungios",
+      "version": "2.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": "QPHUNG • GAME DELTAL\n\nFEATURES\n\n• Aimbot — Hỗ trợ ghim mục tiêu.\n• ESP — Hiển thị vị trí đối thủ.\n• Count — đếm số lượng người chơi.\n• Health — Tối ưu độ ổn định và trải nghiệm.\n\n↓ CÁCH CÀI ĐẶT ↓\n\nThực hiện theo hướng dẫn cài đặt được cung cấp để hoàn tất thiết lập.\n\n↓ HỖ TRỢ ↓\n\nCần hỗ trợ, báo lỗi hoặc đề xuất ứng dụng?\nLiên hệ: @qphungios\n\nqphungios\nUy Tín Tạo Nên Thương Hiệu",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "FreeFire"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/AIMBOTv2.3105",
+      "sha256": "9e4083450ae0a0dc2927876876642924785a8d93cc773fb6d962ee6777ad6295",
+      "size": 16169618,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_1208.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_1208.png",
+        "assets/IMG_0804.png",
+        "assets/icon.png"
+      ],
+      "password": "1"
+    }
+  ]
+}
