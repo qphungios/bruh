@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
-  "identifier": "minhduc.aimfreefiree.com",
+  "identifier": "linkbio.co/qphungios",
   "name": "admin - qphungios",
-  "description": "Kho Lưu Trữ Aim+Mod+Esp Của qphungios ✦\nThông Tin Liên Hệ tele: @qphungios\nzalo : 0348609562 ✦",
+  "description": "Zalo 0348609562  Tele @qphungios",
   "accentColor": "#008080",
   "icon": "assets/qphungios.JPEG",
   "packages": [
     {
       "identifier": "aimbot",
-      "name": "FFM AIMBOT V3",
+      "name": "FFM MENU ESP",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "QPHUNGIOS • H4CK IOS",
-      "description": "QPHUNG • GAME DELTAL\n\nFEATURES\n\n• Aimbot — Hỗ trợ ghim mục tiêu.\n• ESP — Hiển thị vị trí đối thủ.\n• Count  — đếm số lượng người chơi.\n• health — Tối ưu độ ổn định và trải nghiệm.\n\n↓ CÁCH CÀI ĐẶT ↓\n\nThực hiện theo hướng dẫn cài đặt được cung cấp để hoàn tất thiết lập.\n\n↓ HỖ TRỢ ↓\n\nCần hỗ trợ, báo lỗi hoặc đề xuất ứng dụng?\nLiên hệ: @qphungios\n\nqphungios\nUy Tín Tạo Nên Thương Hiệu",
+      "description": " Zalo 0348609562  Tele @qphungios ",
       "category": "Game",
       "tags": [
         "Game",
-        "FreeFire"
+        "qphungios"
       ],
-      "publishedAt": "2026-08-29T07:15:00Z",
-      "download": "packages/AIMBOTv1.3105",
-      "sha256": "072a75e1554cc86ff0bdb83fb7fb6c87ff314a426c5fb6e2bf3bcc5310abf8cf",
-      "size": 16165948,
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/ffmesp.3105",
+      "sha256": "51354c4909fd7a116c11feb07c5b7450644b01f8bf223a81223588056d86aabc",
+      "size": 1617023,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -46,30 +46,35 @@
       "isPrivate": false,
       "icon": "assets/icon.png",
       "screenshots": [
-        "assets/IMG_1208.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_1208.png",
-        "assets/IMG_0804.png",
+        "assets/IMG_8212.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
         "assets/icon.png"
       ],
-      "password": "1"
+      "password": "qphungios"
     },
     {
       "identifier": "aimbot2",
-      "name": "FFTH AIMBOT V3",
+      "name": "FFTH MENU ESP",
       "author": "qphungios",
-      "version": "2.0.0",
+      "version": "1.0.0",
       "summary": "QPHUNGIOS • H4CK IOS",
-      "description": "QPHUNG • GAME DELTAL\n\nFEATURES\n\n• Aimbot — Hỗ trợ ghim mục tiêu.\n• ESP — Hiển thị vị trí đối thủ.\n• Count — đếm số lượng người chơi.\n• Health — Tối ưu độ ổn định và trải nghiệm.\n\n↓ CÁCH CÀI ĐẶT ↓\n\nThực hiện theo hướng dẫn cài đặt được cung cấp để hoàn tất thiết lập.\n\n↓ HỖ TRỢ ↓\n\nCần hỗ trợ, báo lỗi hoặc đề xuất ứng dụng?\nLiên hệ: @qphungios\n\nqphungios\nUy Tín Tạo Nên Thương Hiệu",
-      "category": "Game",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
       "tags": [
         "Game",
-        "FreeFire"
+        "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/AIMBOTv2.3105",
-      "sha256": "9e4083450ae0a0dc2927876876642924785a8d93cc773fb6d962ee6777ad6295",
-      "size": 16169618,
+      "download": "packages/ffthesp.3105",
+      "sha256": "fd7e711fd8e477a6dd66fdb22a41f9cfe2d6d1ebb8c7d7440656105e50cf82dc",
+      "size": 4722303,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -94,13 +99,18 @@
       "isPrivate": false,
       "icon": "assets/icon.png",
       "screenshots": [
-        "assets/IMG_1208.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_1208.png",
-        "assets/IMG_0804.png",
+        "assets/IMG_8258.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
         "assets/icon.png"
       ],
-      "password": "1"
+      "password": "qphungios"
     }
   ]
 }
