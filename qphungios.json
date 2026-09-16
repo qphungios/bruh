@@ -111,6 +111,112 @@
         "assets/icon.png"
       ],
       "password": "qphungios"
+    },
+    {
+      "identifier": "aimbotv3",
+      "name": "FFM ESP + R8 + NO RECOIL",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": " Zalo 0348609562  Tele @qphungios ",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/ffmr8.3105",
+      "sha256": "ca47053aad7c5559150171449f3b4dcce6bd634c72734bb3bcdb3e181ba2d916",
+      "size": 1913842,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_8212.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
+        "assets/icon.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimbotv4",
+      "name": "FFTH ESP + R8 + NO RECOIL",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": " Zalo 0348609562  Tele @qphungios ",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/ffthr8.3105",
+      "sha256": "4deb7375b213e793892f0fa8197a509af5ddf39b9c8153f8bb7932e967ca0aae",
+      "size": 2579046,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_8212.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
+        "assets/icon.png"
+      ],
+      "password": "qphungios"
     }
   ]
 }
