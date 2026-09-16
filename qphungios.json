@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "identifier": "qphungios.com",
-  "name": "admin - qphungios",
+  "name": "MENU H4CK FREE FIRE",
   "description": "Zalo 0348609562  Tele @qphungios",
   "accentColor": "#008080",
   "icon": "assets/qphungios.JPEG",
   "packages": [
     {
       "identifier": "aimbot",
-      "name": "FFM MENU ESP",
+      "name": "FFM MENU ESP V2",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "QPHUNGIOS • H4CK IOS",
@@ -20,8 +20,8 @@
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
       "download": "packages/ffmesp.3105",
-      "sha256": "51354c4909fd7a116c11feb07c5b7450644b01f8bf223a81223588056d86aabc",
-      "size": 1617023,
+      "sha256": "5dcdac7c9a702d5c32a84f362235c751f413b606f8931f8bcff0d7d65efcbf8f",
+      "size": 1906119,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -61,7 +61,7 @@
     },
     {
       "identifier": "aimbot2",
-      "name": "FFTH MENU ESP",
+      "name": "FFTH MENU ESP V2",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "QPHUNGIOS • H4CK IOS",
@@ -73,8 +73,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffthesp.3105",
-      "sha256": "fd7e711fd8e477a6dd66fdb22a41f9cfe2d6d1ebb8c7d7440656105e50cf82dc",
-      "size": 4722303,
+      "sha256": "0009b58d92153979b8b4f36f519a5da8c1bc5bb086974d8c03357404980fab19",
+      "size": 2571323,
       "supportedOS": [
         {
           "minimum": "17.0",
