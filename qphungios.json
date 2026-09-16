@@ -114,7 +114,7 @@
     },
     {
       "identifier": "aimbotv3",
-      "name": "FFM ESP + R8 + NO RECOIL",
+      "name": "FFM R8 NO ESP",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "QPHUNGIOS • H4CK IOS",
@@ -126,8 +126,8 @@
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
       "download": "packages/ffmr8.3105",
-      "sha256": "ca47053aad7c5559150171449f3b4dcce6bd634c72734bb3bcdb3e181ba2d916",
-      "size": 1913842,
+      "sha256": "bc43cfaf7ba4243a2aabcdadfd041b38a83262d3d9f0325db0e54ba20d321e09",
+      "size": 1980214,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -167,7 +167,7 @@
     },
     {
       "identifier": "aimbotv4",
-      "name": "FFTH ESP + R8 + NO RECOIL",
+      "name": "FFTH R8 NO ESP",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "QPHUNGIOS • H4CK IOS",
@@ -179,8 +179,8 @@
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
       "download": "packages/ffthr8.3105",
-      "sha256": "4deb7375b213e793892f0fa8197a509af5ddf39b9c8153f8bb7932e967ca0aae",
-      "size": 2579046,
+      "sha256": "6bce543645aae5241a5b54bdd91fdd9dd3b745dc543057699f6a772cd5c2b482",
+      "size": 2573418,
       "supportedOS": [
         {
           "minimum": "17.0",
