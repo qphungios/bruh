@@ -7,7 +7,7 @@
   "icon": "assets/icon.png",
   "packages": [
     {
-      "identifier": "aimbot",
+      "identifier": "aimbotsh",
       "name": "FFM MENU ESP V2",
       "author": "qphungios",
       "version": "1.0.0",
@@ -60,7 +60,7 @@
       "password": "qphungios"
     },
     {
-      "identifier": "aimbot2",
+      "identifier": "aimbot2nsns",
       "name": "FFTH MENU ESP V2",
       "author": "qphungios",
       "version": "1.0.0",
@@ -113,7 +113,7 @@
       "password": "qphungios"
     },
     {
-      "identifier": "aimbot2",
+      "identifier": "aimbot2sb",
       "name": "FFTH MENU ESP V2",
       "author": "qphungios",
       "version": "1.0.0",
@@ -166,7 +166,7 @@
       "password": "qphungios"
     },
     {
-      "identifier": "aimbot2",
+      "identifier": "bnhaimbot2",
       "name": "FFTH MENU ESP V2",
       "author": "qphungios",
       "version": "1.0.0",
