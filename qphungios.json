@@ -217,6 +217,218 @@
         "assets/icon.png"
       ],
       "password": "qphungios"
+    },
+    {
+      "identifier": "aimbotv5",
+      "name": "FFM R8 NO ESP",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": " Zalo 0348609562  Tele @qphungios ",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/ffmr8.3105",
+      "sha256": "bc43cfaf7ba4243a2aabcdadfd041b38a83262d3d9f0325db0e54ba20d321e09",
+      "size": 1908214,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_8212.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
+        "assets/icon.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimbotv4",
+      "name": "FFTH R8 NO ESP",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": " Zalo 0348609562  Tele @qphungios ",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/ffthr8.3105",
+      "sha256": "6bce543645aae5241a5b54bdd91fdd9dd3b745dc543057699f6a772cd5c2b482",
+      "size": 2573418,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_8212.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
+        "assets/icon.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimbotv3",
+      "name": "FFM IOSVIET",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": " Zalo 0348609562  Tele @qphungios ",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/ffmiosv.3105",
+      "sha256": "6b11c44308c8ebb1c9d76ab61c1febcbf9ad6dd824bde67193292cbfde769ea5",
+      "size": 1934983,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_8212.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
+        "assets/icon.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimbotv6",
+      "name": "FFTH IOSVIET",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": " Zalo 0348609562  Tele @qphungios ",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/ffthiosv.3105",
+      "sha256": "4ebae2899f39d7705341920a0d5d9fe743d243a9107d1e15c2cd490a978ca163",
+      "size": 2600187,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_8212.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
+        "assets/icon.png"
+      ],
+      "password": "qphungios"
     }
   ]
 }
