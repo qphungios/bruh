@@ -74,7 +74,7 @@
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffthesp.3105",
       "sha256": "0009b58d92153979b8b4f36f519a5da8c1bc5bb086974d8c03357404980fab19",
-      "size": 2571323,
+      "size": 250323,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -127,7 +127,7 @@
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/fftajaj.3105",
       "sha256": "0009b58d92153979b8b4f36f519a5da8c1bc5bb086974d8c03357404980fab19",
-      "size": 2571323,
+      "size": 2001323,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -179,8 +179,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffthespha.3105",
-      "sha256": "0009b58d92153979b8b4f36f519a5da8c1bc5bb086974d8c03357404980fab19",
-      "size": 2571323,
+      "sha256": "0009b58d92179b8b4f36f519a5da8c1bc5bb086974d8c03357404980fab19",
+      "size": 2571327,
       "supportedOS": [
         {
           "minimum": "17.0",
